@@ -1,7 +1,7 @@
-# Godot 4, Addons propios
+# Godot 3/4, Addons propios
 - [Object State Machine](https://github.com/lowlevel-1989/object_state_machine)
 
-# Godot 4, Addons adaptados
+# Godot 3/4, Addons adaptados
 
 # Godot 4
 - [Color Preview](https://github.com/Qubus0/GodotColorPreview)
