@@ -10,6 +10,7 @@
 - [Godot Universal Fade](https://github.com/KoBeWi/Godot-Universal-Fade)
 
 # Godot 3
+- [CinematicCamera2D](https://github.com/HexagonNico-Godot-Plugins/CinematicCamera2D)
 - [Analog Controller](https://github.com/thiagobruno/godot_analogcontroller)
 - [Color Palette](https://github.com/EricEzaM/godot-color-palette)
 - [TextEditor](https://github.com/teebarjunk/Godot-TextEditor)
