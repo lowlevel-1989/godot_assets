@@ -5,6 +5,7 @@
 
 # Godot 4
 - [Color Preview](https://github.com/Qubus0/GodotColorPreview)
+- [CinematicCamera2D-Godot4](https://github.com/HexagonNico-Godot-Plugins/CinematicCamera2D-Godot4)
 - [Dialogic](https://github.com/coppolaemilio/dialogic)
 - [AnnotationsTree](https://gitlab.com/Mustachioed_Cat/annotations_tree)
 - [Godot Universal Fade](https://github.com/KoBeWi/Godot-Universal-Fade)
