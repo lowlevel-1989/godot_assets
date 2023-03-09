@@ -7,6 +7,7 @@
 # Godot 4
 - [Color Preview](https://github.com/Qubus0/GodotColorPreview)
 - [CinematicCamera2D-Godot4](https://github.com/HexagonNico-Godot-Plugins/CinematicCamera2D-Godot4)
+- [Monitor Overlay](https://github.com/HungryProton/monitor_overlay)
 - [Dialogic](https://github.com/coppolaemilio/dialogic)
 - [AnnotationsTree](https://gitlab.com/Mustachioed_Cat/annotations_tree)
 - [Godot Universal Fade](https://github.com/KoBeWi/Godot-Universal-Fade)
@@ -15,6 +16,7 @@
 - [CinematicCamera2D](https://github.com/HexagonNico-Godot-Plugins/CinematicCamera2D)
 - [Analog Controller](https://github.com/thiagobruno/godot_analogcontroller)
 - [Color Palette](https://github.com/EricEzaM/godot-color-palette)
+- [Monitor Overlay](https://github.com/HungryProton/monitor_overlay)
 - [TextEditor](https://github.com/teebarjunk/Godot-TextEditor)
 - [Particles Renderer](https://github.com/hiulit/Godot-Plugin-Particles-Renderer)
 - [Shell Fur (pelos)](https://github.com/Arnklit/ShellFurGodot)
