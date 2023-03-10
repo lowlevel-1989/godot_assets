@@ -46,7 +46,7 @@
 # Demos Comunidad
 - [Godot Tactical RPG](https://github.com/ramaureirac/godot-tactical-rpg)
 
-# Addons no publicados en Godot
+# Addons no publicados en Godot 3
 - [sprite editor addon](https://github.com/SoloCodeNet/godot-sprite-editor-addon)
 - [diagraph](https://daelon.itch.io/diagraph)
 
